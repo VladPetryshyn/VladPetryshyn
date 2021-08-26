@@ -1,1 +1,1 @@
-![](images/duck.gif?raw=true)
+![](duck.gif?raw=true)
